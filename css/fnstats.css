@@ -1,0 +1,8 @@
+body {
+    background-color: linen !important;
+    width: 200px !important;
+}
+
+.fn-border div{
+    background-color: purple;
+}
